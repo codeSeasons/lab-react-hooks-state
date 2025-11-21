@@ -1,3 +1,27 @@
-/* TODO (optional): Define styles for dark mode */
+/*Light mode default*/
+.lightMode {
+  background-color: #ffffff;
+  color: #000000;
+  min-height: 100vh;
+  min-width: 100vw;
+}
 
-/* TODO (optional): Ensure text and background colors adjust for dark mode */
+/*Dark mode*/
+.darkMode {
+  background-color: #000000;
+  color: #ffffff;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+/*Light mode button*/
+.lightButton {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+/*Dark mode button*/
+.darkButton {
+  background-color: #ffffff;
+  color: #000000;
+}
